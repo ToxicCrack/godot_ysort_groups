@@ -12,7 +12,7 @@ This is how the nodetree would look like:
 - YSort
   - NodeX
   - NodeY
-  - Container (Group: ysort_group)
+  - Container (Group: ysort_group, Node2D or whatever)
     - OrganizedNode1
     - OrganizedNode2
     - OrganizedNode3
