@@ -5,7 +5,7 @@ With the snippet in the example.gd, you can organize your nodes in subnodes unde
 - get the children of that node an add it to the parent ysort node
 - delete the "ysort_group" node
 
-It even works with instanced scenes!
+It even works with instanced scenes! So basically the container node is a editor-only node.
 
 This is how the nodetree would look like:
 
